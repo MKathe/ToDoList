@@ -1,0 +1,3 @@
+Data:
+En esta carpeta dividiremos los modelos de datos que vamos a tener en entities y las conexiones
+que tengamos ya sean con base de datos o APi irán en repositories

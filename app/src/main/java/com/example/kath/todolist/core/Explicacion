@@ -1,0 +1,7 @@
+Core:
+aqui va  lo que se puede abstraer del código y separarlo para su reuso
+por ejemplo si se van a crear muchos fragments, esa parte del código se
+almacena en una clase que extiende de fragment,pasando los parametros
+necesarios solo será llamado cuando se necesito,
+De la misma manera para los activitys, siempre se pasa de un activity
+a otro por los tanto en otra clase podemos tener ese codigo que se reutilizará.

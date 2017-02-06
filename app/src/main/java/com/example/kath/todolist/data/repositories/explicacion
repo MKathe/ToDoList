@@ -1,0 +1,3 @@
+Repositories:
+Dividimos nuestras conexiones de base de datos por local, en caso se haga un guardado
+en celular, o remote, si la conexión será por retrofit u online.

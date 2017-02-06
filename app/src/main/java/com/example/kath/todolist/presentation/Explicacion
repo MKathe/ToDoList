@@ -1,0 +1,4 @@
+Presentation:
+Esta carpeta se divide en lo que se utiliza para crear una presentación,
+actividades, fragments, adapters en caso se utilice ReciclerView, en si
+lo que tenga que ver con el flujo y la interaccion con las vistas
